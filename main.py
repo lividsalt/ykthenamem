@@ -5,5 +5,11 @@ print("welcome " + name + " !")
 
 startprog = input("would you like to start the program? Y/N ")
 
-if startprog == "Y":
-  exec(open('').read())
+projy = if "Y":
+  print("would you like to use firefox or google?")
+
+elif "N":
+  print("Have a good day!")
+  break
+projy = "google"
+  
